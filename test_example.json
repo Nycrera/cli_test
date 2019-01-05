@@ -1,0 +1,1 @@
+{"test_name":"My Amazing Test!","encoding":"utf-8","tests":[{"id":0,"time":100,"in":"100","out":10,"expect":"Great!","caseSensitive":false,"threshold":0.8},{"id":1,"time":200,"in":"150","out":10,"expect":"That's bad bro!","caseSensitive":false,"threshold":0.8}]}

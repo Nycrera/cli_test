@@ -1,0 +1,14 @@
+{
+  "name": "clitest",
+  "version": "1.0.0",
+  "description": "A tool for blackbox texting command line executables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nycrera",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.12.12"
+  }
+}
